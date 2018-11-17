@@ -6,6 +6,7 @@ body {
   padding: 0; }
 
 .container {
+  display: -ms-flexbox;
   display: flex;
   margin: 0 auto;
   padding: 0 50px;
@@ -27,4 +28,4 @@ body {
   text-align: justify;
   padding: 20px 70px; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
